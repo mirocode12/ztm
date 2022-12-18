@@ -1,5 +1,5 @@
 /* idea is to take each number in given array and check it with all other numbers in array
- *  if they make target sum, using two for loops
+ *  if they make target sum, using two nested for loops
  */
 let arr = [1, 2, 3],
   target = 4;
